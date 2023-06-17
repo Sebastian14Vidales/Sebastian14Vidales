@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://vidalesnotes.notion.site/My-book-91ae5ec406aa404e8db0b56e404ebfaf](https://vidalesnotes.notion.site/My-book-91ae5ec406aa404e8db0b56e404ebfaf)
 
-- 💬 Ask me about **CSS, Sass, Gulpfile, Bootstrap 5, HTML5, JS.**
+- 💬 Ask me about **CSS, Sass, TailwindCSS, Gulpfile, Bootstrap 5, HTML5, JS, ReactJS.**
 
 - 📫 How to reach me **vidales14sebastian@gmail.com**
 
