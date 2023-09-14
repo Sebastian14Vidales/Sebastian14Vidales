@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastián Vidales Claros</h1>
-<h3 align="center">A passionate FrontEnd Developer from Colombia.</h3>
+<h3 align="center">FrontEnd Developer</h3>
 <p align="left">📍 I am a passionate Systems Engineer and Web Developer Front-End from Florencia, Caquetá - Colombia. 
+
 
 💡 I really enjoy learning new things. I am proactive, organized, responsible and an excellent team partner. I have experience developing web aplications with React | Remix | ViteJS | NextJS | JavaScript | HTML | CSS3 | Strapi | MySQL integreting CSS frameworks such as TailwindCSS and Bootstrap and User Interface libraries (UI) for React as Next-UI and Material-UI. 
 
