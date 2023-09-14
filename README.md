@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sebastián Vidales Claros</h1>
 <h3 align="center">A passionate FrontEnd Developer from Colombia.</h3>
+📍 I am a passionate Systems Engineer and Web Developer Front-End from Florencia, Caquetá - Colombia. 
+
+💡 I really enjoy learning new things. I am proactive, organized, responsible and an excellent team partner. I have experience developing web aplications with React | Remix | ViteJS | NextJS | JavaScript | HTML | CSS3 | Strapi | MySQL integreting CSS frameworks such as TailwindCSS and Bootstrap and User Interface libraries (UI) for React as Next-UI and Material-UI. 
+
+👨‍🎓 Likewise, I am learning NodeJS. I am currently studying English and my level is (A2).
+
+👨‍💻 My main goal is to get my first job as Web Developer Front-End where I can contribute to the growth of your company thanks my knowledge and also I want to take on new challenges to allow me to improve my professional level.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastian14vidales&label=Profile%20views&color=0e75b6&style=flat" alt="sebastian14vidales" /> </p>
 
