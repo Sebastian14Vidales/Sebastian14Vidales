@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastian14vidales" alt="sebastian14vidales" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind, ReactJS and NodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://www.vidalescode.com/](https://www.vidalescode.com/)
 
